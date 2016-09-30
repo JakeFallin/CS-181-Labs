@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Lab 03}
+  <content>
+# Lab 03
 
 
 
