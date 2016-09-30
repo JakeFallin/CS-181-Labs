@@ -45,6 +45,6 @@ For e.g. running java Lab02_yourname 3 7 returns “22 11 34 17 52
 26 13 40 20 10 5 16 8 4 2 1”.
 Note – You are required to use while, do while or for loops. 
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
+  <tabTrigger></tabTrigger>
 </snippet>
